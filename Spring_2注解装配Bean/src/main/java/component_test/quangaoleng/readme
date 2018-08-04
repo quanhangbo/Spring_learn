@@ -1,0 +1,1 @@
+通过Conponent装配Bean，一种是同目录下ComponentScan扫描,一种是通过配置参数表明包名或者是路径名
